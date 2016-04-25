@@ -1,0 +1,6 @@
+build/
+.cproject
+.dep/
+.vscode/
+.settings/
+.project
